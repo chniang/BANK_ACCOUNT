@@ -37,4 +37,4 @@ mon_compte.verifier_balance()
 
 ## 📜 Licence
 
-Ce projet est open-source, sous licence MIT.
+Ce projet est open-source.
